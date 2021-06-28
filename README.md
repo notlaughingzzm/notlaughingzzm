@@ -19,7 +19,8 @@
 <!--
 **notlaughingzzm/notlaughingzzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 我的 Github
-![](https://github-readme-stats.vercel.app/api?username=notlaughingzzm&count_private=true&show_icons=true&theme=onedark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notlaughingzzm)](https://github.com/anuraghazra/github-readme-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
